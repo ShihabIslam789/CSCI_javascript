@@ -1,4 +1,3 @@
 # CSCI_javascript
 
-
-web link: [Chat-app](https://chat-app-63eec.web.app/)
+this page is used to paste Junk files that might be neededin the future
